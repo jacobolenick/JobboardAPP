@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import Navbar from './components/Navbar';
+import List from './components/List';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       </header>
       <body>
         <Navbar />
+        <List />
       </body>
     </div>
   );
