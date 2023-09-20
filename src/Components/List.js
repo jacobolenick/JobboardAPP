@@ -1,6 +1,6 @@
 const people = [
     {
-      name: 'Leslie Alexander',
+      name: 'Shane Kobylecky',
       email: 'leslie.alexander@example.com',
       role: 'Co-Founder / CEO',
       imageUrl:
@@ -9,7 +9,7 @@ const people = [
       lastSeenDateTime: '2023-01-23T13:23Z',
     },
     {
-      name: 'Michael Foster',
+      name: 'Jacob Olenick',
       email: 'michael.foster@example.com',
       role: 'Co-Founder / CTO',
       imageUrl:
@@ -18,7 +18,7 @@ const people = [
       lastSeenDateTime: '2023-01-23T13:23Z',
     },
     {
-      name: 'Dries Vincent',
+      name: 'Sean Hagstrom',
       email: 'dries.vincent@example.com',
       role: 'Business Relations',
       imageUrl:
@@ -26,7 +26,7 @@ const people = [
       lastSeen: null,
     },
     {
-      name: 'Lindsay Walton',
+      name: 'Megan Olenick',
       email: 'lindsay.walton@example.com',
       role: 'Front-end Developer',
       imageUrl:
@@ -35,7 +35,7 @@ const people = [
       lastSeenDateTime: '2023-01-23T13:23Z',
     },
     {
-      name: 'Courtney Henry',
+      name: 'Milton Amaya',
       email: 'courtney.henry@example.com',
       role: 'Designer',
       imageUrl:
