@@ -18,7 +18,7 @@ const people = [
       lastSeenDateTime: '2023-01-23T13:23Z',
     },
     {
-      name: 'Sean Hagstrom',
+      name: 'Sean Hagstrombonie',
       email: 'dries.vincent@example.com',
       role: 'Business Relations',
       imageUrl:
